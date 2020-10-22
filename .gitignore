@@ -1,0 +1,8 @@
+.DS_Store
+lab_template
+*.aux
+*.log
+*.fd*
+*.fls
+*.out
+*.gz
